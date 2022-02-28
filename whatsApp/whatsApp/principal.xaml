@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="whatsApp.principal"
+             Title="principal">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Nuevo grupo"
+                   />
+
+            <Button Text="Nueva difusión"
+                    />
+
+            <Button Text="Dispositivos vinculados"
+                    />
+            <Button Text="Mensajes destacados"
+                    />
+            <Button Text="Ajustes"
+                    />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
